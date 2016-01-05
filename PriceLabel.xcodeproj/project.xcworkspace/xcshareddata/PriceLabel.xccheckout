@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EB6CE877-9EBA-4A36-ACE2-2E8A69D85D93</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>927E0A9AF32BB09BD0B003C5CDA3822D4C78AD20</key>
+		<string>https://bitbucket.org/EdHolcomb/pricelabel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PriceLabel.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>927E0A9AF32BB09BD0B003C5CDA3822D4C78AD20</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/EdHolcomb/pricelabel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>927E0A9AF32BB09BD0B003C5CDA3822D4C78AD20</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>927E0A9AF32BB09BD0B003C5CDA3822D4C78AD20</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PriceLabel</string>
+		</dict>
+	</array>
+</dict>
+</plist>
